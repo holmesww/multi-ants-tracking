@@ -1,2 +1,6 @@
 # multi-ants-tracking
-Online multi-ants tracking based on Association Metric
+This repository contains code for training and testing multi-ants tracking model. 
+
+Download [ANTS] dataset [here] ()
+
+
